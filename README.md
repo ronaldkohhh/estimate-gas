@@ -9,7 +9,7 @@ git clone https://github.com/ronaldkohhh/estimate-gas
 
 ## Install necessary dependencies:
 ```
-npm install web3 dotenv
+npm install npm install web3@1.7.4 dotenv
 ```
 
 ## Create a .env file to store your Infura Project ID:
